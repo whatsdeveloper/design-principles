@@ -1,5 +1,5 @@
 # Design principles
 
-- [SOLID](design-principles/SOLID.md)
-- [KISS](design-principles/KISS.md)
-- [YAGNI](design-principles/YAGNI.md)
+- [SOLID](principles/SOLID.md)
+- [KISS](principles/KISS.md)
+- [YAGNI](principles/YAGNI.md)
